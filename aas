@@ -1,0 +1,4 @@
+ git clone https://github.com/whitewhidow/quest-sidenoder.git
+ cd quest-sidenoder/
+ windows-install.bat
+ npm install
